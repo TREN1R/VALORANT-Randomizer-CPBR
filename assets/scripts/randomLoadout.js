@@ -15,7 +15,7 @@ var Agents = [
     "Skye",
     "Yoru",
     "Astra",
-    "KAYO",
+    "kayo",
     "Chamber",
     "Neon",
     "Fade",
