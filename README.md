@@ -1,2 +1,2 @@
-# VALORANT-Randomizer-CPBR
-VALORANT-Randomizer-CPBR
+# Valorant Random
+It is a random agent picker and random loadout for the game Valorant.
