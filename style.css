@@ -15,7 +15,7 @@ body {
     filter: grayscale(80%);
     filter: hue-rotate(90deg);
     height: 250vh;
-    width: 250vw;
+    width: 150vw;
     z-index: -1;
     position: absolute;
 
